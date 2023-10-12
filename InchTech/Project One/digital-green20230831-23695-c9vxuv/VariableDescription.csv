@@ -1,0 +1,44 @@
+Variable,Description
+District,Name of the district
+Block,Name of the block
+CultLand,Area of total cultivated land
+CropCultLand,Area of land under cultivation
+LandPreparationMethod,Method for land preparation
+CropTillageDate,Date of tillage of the largest plot
+CropTillageDepth,Depth of the tillage
+CropEstMethod,Method of transplantation
+RcNursEstDate,Date of nursery establishment
+SeedingSowingTransplanting,Crop establishment method - sowing/transplanting
+SeedlingsPerPit,Seedling planted per pit
+NursDetFactor,What are the reason of choosing the date of nursery
+TransDetFactor,What are the reason for choosing the date of transplantation
+TransplantingIrrigationHours,Hours of irrigation during transplantation
+TransplantingIrrigationSource,Source of water for irrigation during transplantation
+TransplantingIrrigationPowerSource,Source of power for irrigation pump during transplantation
+TransIrriCost,Cost of irrigation during transplantation
+StandingWater,How many days of standing water was there in the field
+OrgFertilizers,Have the farmer used organic fertilizer during transplantation
+Ganaura,Amount of 
+CropOrgFYM,FYM of irrigation during transplantation
+PCropSolidOrgFertAppMethod,Method of irrigation during transplantation
+NoFertilizerAppln,Appln of irrigation during transplantation
+CropbasalFerts,Any basal dose was used during land preparation - Yes/No
+BasalDAP,"If yes, amount of DAP"
+BasalUrea,"If yes, amount of Urea"
+MineralFertAppMethod,Application method of mineral fertilizer - urea and DAP in basal dose
+FirstTopDressFert,Any top dressing of mineral fertilizer was done - yes/no
+1tdUrea,"if yes, amount of urea used in first top dressing"
+1appDaysUrea,How many days after transplantation first top dressing of urea was done
+2tdUrea,Amount of Urea in second top dressing in kg
+2appDaysUrea,How many days after 1st top dressing second top dressing was done
+MineralFertAppMethod,Application method of mineral fertilizer - urea and DAP
+Harv_method,Method of harvesting
+Harv_date,Date of harvesting
+Harv_hand_rent,"If labours were used or harvesting machine hired, what was the rent"
+Threshing_date,Date of thresing of harvested crop
+Threshing_method,Method of thresing of harvested crop
+Residue_length,Length of the residue left after harvesting
+Residue_perc,Percentage of residue left in the field after harvesting
+Stubble_use,Management practice of the stabble after harvesting
+Acre,Local Land unit converted to acre
+Yield,Yield
