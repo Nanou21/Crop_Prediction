@@ -1,9 +1,0 @@
-# Log started 2023-09-22 10:34
-# Record of session commands.  Please note that this will
-# likely require editing if it is to be run as a script.
-open \
-  "C:\Users\vtebo\Documents\Data science\Udemy\Modeling\P12-SalaryData (1).csv"
-summary YearsExperience
-# model 1
-ols Salary 0 YearsExperience
-fcast 1 30
